@@ -1,0 +1,29 @@
+.rounded-logo {
+    border-radius: 50%;
+}
+
+.logo-margin {
+    margin-right: 10px;
+}
+
+.search-form {
+    margin-left: auto;
+}
+
+.my-node-enter {
+    opacity: 0;
+}
+
+.my-node-enter-active {
+    opacity: 1;
+    transition: opacity 300ms;
+}
+
+.my-node-exit {
+    opacity: 1;
+}
+
+.my-node-exit-active {
+    opacity: 0;
+    transition: opacity 300ms;
+}
